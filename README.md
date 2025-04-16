@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my mentioned interests
 - 📫 How to reach me im available on insta @abhiraj_sw or heres my mail abhivaidya57@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: This is all vibe coded haha
+- ⚡ Fun fact: This is all vibe coded haha and I love shoes
 
 <!---
 Abhiloveshoes/Abhiloveshoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
