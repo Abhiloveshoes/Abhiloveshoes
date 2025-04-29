@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhiloveshoes
+- 👋 Hi, I’m Abhiraj!
 - 👀 I’m interested in building web apps, saas, and fintech products and also ML and AI models, I would also love to develop games as a hobby but thats for near future
 - 🌱 I’m currently learning python, css, node, react and next.js
 - 💞️ I’m looking to collaborate on my mentioned interests
